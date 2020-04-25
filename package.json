@@ -1,0 +1,23 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "Javascript code",
+  "main": "introduction.js",
+  "dependencies": {
+    "standard": "^14.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranc99/javascripting.git"
+  },
+  "author": "Ten Mutunhire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranc99/javascripting/issues"
+  },
+  "homepage": "https://github.com/tranc99/javascripting#readme"
+}
